@@ -1,0 +1,31 @@
+header {
+    background-color:silver
+}
+
+
+h1 {
+    text-align: center;
+}
+
+header nav ul {
+list-style: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin-inline: 20px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+}
+
+img{
+    width: 50%;
+    margin: green;
+}
+
+/*id unique with only one element */
+#color-blue{
+    color: blue;
+}
